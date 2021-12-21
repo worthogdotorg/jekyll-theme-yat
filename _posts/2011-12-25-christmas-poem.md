@@ -6,9 +6,10 @@ categories: poetry
 tags: holidays
 excerpt_separator: <!--more-->
 ---
+[Here is a glimpse](https://youtu.be/YuFVAS7PXBs) of our family celebration. And here's the poem, read before Christmas dinner.
+
 Christmas,  
 a time for celebration.  
-<!--more-->
 Celebrating the company of family,  
 all of us together, here, now.  
 
