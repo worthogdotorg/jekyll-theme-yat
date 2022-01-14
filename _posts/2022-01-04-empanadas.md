@@ -29,13 +29,13 @@ This is enough for about 50 empanadas, or enough to share with anybody lucky eno
     * I use about 2 pounds in the empanadas, and save the rest for tacos (chop in small cubes, fry briefly, serve in good corn tortillas with some quality salsa, cilantro and chopped onion as toppings)
 * 2 generous cups (200+ grams) roughly chopped walnuts 
 * 2 cups (350 grams) raisins
-* 8 medjool dates, pitted and chopped (don't tell my mother) - you can skip these and add another 1/2 cup of raisins if you prefer
+* 8 medjool dates, pitted and chopped (don't tell my mother) - you can skip these and add another 1/2 cup of raisins if you prefer (This is my nod to the probable, long ago Moorish influence in Spain that begat this empanada recipe.)
 * 1/2 cup (100 grams) brown sugar (I used jaggery, but you can also use piloncillo)
 * 1/2 cup (100 grams) granulated sugar
 * 2.5-3 teaspoons ground cinnamon
 * 1/2 teaspoon ground clove
 * 1/2 teaspoon nutmeg
-* 1 teaspoon vanilla
+* 1 teaspoon vanilla (the real stuff, not vanillan)
 * 1 generous teaspoon sea salt
 
 ### Dough
@@ -68,7 +68,7 @@ Prepare the filling first.  It can sit in the refrigerator for a couple of days 
 ![grinder](/assets/images/grinder.jpg)
 6. Once the grinding is complete, add the sugar/spice mix and to the mincemeat along with the vanilla.  Now, mix it well using your hands.  If it seems a little dry, add a little cooking liquid until it's *juuuuust right*. 
 7. Add more sugar, salt, spices or vanilla if you are so inclined.
-8. We're done.  Cover and refrigerate the mincemeat (picadillo!?)  This is enough for about 50 empanadas. 
+8. We're done.  Cover and refrigerate the mincemeat (picadillo!?)  
 
 ### Dough
 Like I said above, [use this recipe](https://honest-food.net/fried-empanadas/) or one that has been used in your familia.  The recipe will make about 12 empanadas. The dough balls should be the size of a very slightly oversized ping pong ball.  I make enough dough for 12 - 24 at a time.  
