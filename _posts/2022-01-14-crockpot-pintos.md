@@ -7,7 +7,7 @@ tags: recipes mexican
 excerpt_separator: <!--more-->
 ---
 ![panchito](/assets/images/crockpot_pintos.jpg)
-To 2 cups of well rinsed, good beans from the Colorado highlands (or lesser beans from somewhere else), add 7 cups of cold water, half an onion (or a couple of crushed garlic cloves), a small dried chili, and some [epazote] (https://en.wikipedia.org/wiki/Dysphania_ambrosioides) or some cilantro stems. Cook on low setting for about 5 hours. When the beans are cooked to your taste, turn off the crock pot and add a couple of teaspoons of
+To 2 cups of well rinsed, good beans from the Colorado highlands (or lesser beans from somewhere else), add 7 cups of cold water, half an onion (or a couple of crushed garlic cloves), a small dried chili, and some [epazote](https://en.wikipedia.org/wiki/Dysphania_ambrosioides) or some cilantro stems. Cook on low setting for about 5 hours. When the beans are cooked to your taste, turn off the crock pot and add a couple of teaspoons of
 ketchup, a teaspoon of cider vinegar, and salt to your taste. Like any soup or stew, they are better a day later.
 
 If you want to cook more or less beans, the ratio of beans to water is 1:3.5, *exactly and approximately*.
