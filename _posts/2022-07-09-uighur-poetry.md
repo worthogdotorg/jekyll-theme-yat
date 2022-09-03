@@ -2,7 +2,7 @@
 layout: post
 title: No Road Back Home
 subtitle: Abduqadir Jalalidin, Uighur Author
-categories: commonplaces
+categories: commonplaces poetry
 tags: [profundities]
 ---
 
